@@ -8,7 +8,7 @@ declare module "meteor/alanning:roles" {
       function addUsersToRoles(users: any, roles: any, groups?: string): void;
       function removeUsersFromRoles(users: any, roles: any): void;
        // User can be user ID or user object.
-      function userIsInRole(user: any, roles: any, group: any): boolean;
+      function userIsInRole(user: any, roles: any, group?: any): boolean;
       function getRolesForUser(userId: string): string[];
       function getAllRoles(): ObservableCursor<RolesDAO>;
       function getUsersInRole(roleName: string): ObservableCursor<RolesDAO>;
