@@ -2,6 +2,6 @@
 // Source: https://raw.githubusercontent.com/muehle28/zardak-soap/686928f10f5fc5518e6d145197b8136ed6b7cb1c/main.d.ts
 declare module "meteor/zardak:soap" {
     module Soap {
-        function createClient(url:string, options:any):any; 
+        function createClient(url:string, options?:any):any; 
     }
 }
