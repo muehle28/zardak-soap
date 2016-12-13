@@ -1,3 +1,3 @@
 ## Installation
 
-`typings install github:muehle28/zardak-soap#32677816e75a28a808a7f5554e9fbeef69ae3321 --global`
+`typings install github:muehle28/zardak-soap#a26663828f9163747db657ea5febfd68c7e0103f --global`
