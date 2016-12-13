@@ -1,3 +1,3 @@
 ## Installation
 
-`typings install github:muehle28/alanning-roles#686928f10f5fc5518e6d145197b8136ed6b7cb1c --global`
+`typings install github:muehle28/alanning-roles#fc65f9389e137bb38badfd3057ade2744b4b42c3 --global`
