@@ -1,3 +1,3 @@
 ## Installation
 
-`typings install github:meteor-typings/alanning-roles#9960894dba03dbaf0b2a03986ed8d041e6d629e0 --ambient`
+`typings install github:muehle28/alanning-roles#686928f10f5fc5518e6d145197b8136ed6b7cb1c --global`
