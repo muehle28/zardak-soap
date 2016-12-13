@@ -1,8 +1,8 @@
 {
-  "name": "alanning:roles",
-  "version": "1.2.15",
+  "name": "zardak:soap",
+  "version": "0.2.6",
   "main": "main.d.ts",
-  "homepage": "https://atmospherejs.com/alanning/roles",
+  "homepage": "https://atmospherejs.com/zardak/soap",
   "ambient": true,
   "ambientDependencies": {
     "meteor": "registry:env/meteor"
